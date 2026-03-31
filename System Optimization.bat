@@ -3,7 +3,6 @@ chcp 65001 >nul
 title Otimizador de Sistema - Windows
 color 0A
 
-:: Verificar admin
 net session >nul 2>&1
 if %errorlevel% neq 0 (
     echo.
