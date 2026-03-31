@@ -5,7 +5,7 @@
 <br> 
 
 <div align="center">
-  Esse arquivo .bat automatiza a otimização do sistema Windows, executando uma série de comandos para melhorar o desempenho. Ele realiza a limpeza do cache de DNS, remove arquivos temporários das pastas do  sistema,  e verifica integridade de arquivos do Windows, corrigindo possíveis falhas. É uma solução prática para quem busca manter o sistema mais rápido e estável.
+  Esse arquivo .bat automatiza a otimização do sistema Windows, executando uma série de comandos para melhorar o desempenho. Ele realiza a limpeza do cache de DNS, remove arquivos temporários das pastas do  sistema  e verifica integridade de arquivos do Windows, corrigindo possíveis falhas. É uma solução prática para quem busca manter o sistema mais rápido e estável.
 </div> 
 
 <br> 
